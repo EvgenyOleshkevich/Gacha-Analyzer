@@ -1,4 +1,4 @@
-# Genshin Impact Analysis Tools
+# Genshin Impact and Zenless Zone Zero Analysis Tools
 
 A collection of Python tools for analyzing different aspects of Genshin Impact using simulations, probability calculations, and player data.
 
