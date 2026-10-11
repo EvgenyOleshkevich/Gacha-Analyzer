@@ -174,7 +174,7 @@
         "ATK": 0,
         "DEF%": 0,
         "DEF": 0,
-        "EM": 0,
+        "EM": 0.1,
         "ER": 0.3,
         "CRIT_RATE": 1,
         "CRIT_DMG": 1
@@ -355,7 +355,7 @@
         "DEF%": 0,
         "DEF": 0,
         "EM": 1,
-        "ER": 0.2,
+        "ER": 0.3,
         "CRIT_RATE": 1,
         "CRIT_DMG": 1
     },
@@ -704,6 +704,18 @@
         "DEF": 0,
         "EM": 0.67,
         "ER": 0.15,
+        "CRIT_RATE": 1,
+        "CRIT_DMG": 1
+    },
+    "Yumemizuki Mizuki": {
+        "HP%": 0,
+        "HP": 0,
+        "ATK%": 0.5,
+        "ATK": 0,
+        "DEF%": 0,
+        "DEF": 0,
+        "EM": 0.1,
+        "ER": 0.2,
         "CRIT_RATE": 1,
         "CRIT_DMG": 1
     },
